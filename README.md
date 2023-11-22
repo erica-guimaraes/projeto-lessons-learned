@@ -1,4 +1,6 @@
-# Esse foi meu primeiro Projeto na Trybe - Lessons Learned 
+# Projeto - Lessons Learned 
+
+Esse foi meu primeiro projeto na Trybe!
 
 Desenvolvi um site que contém uma série de informações sobre o que aprendi. O site possui elementos posicionados e estilizados e, além disso, contém semântica apropriada para que seja acessível e melhor ranqueado.
 
